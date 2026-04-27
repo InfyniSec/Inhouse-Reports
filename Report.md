@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="{LOGO_PATH}" alt="Logo" width="400" style="display: block; margin: 0 auto;">
-  
-  **{FIRM_NAME}**
-  *When trustless fails, we don't!*
-  
+
+<img src="/home/ldavid/Mantle/InfyniSec.jpg" alt="InfyniSec Logo" width="400" style="display: block; margin: 0 auto;">
+
+**INFYNISEC**  
+*When trustless fails, we don't!*
+
   ---
   
   ### {PROJECT_NAME} Security Review
-  **Version 1.0**
+  **Version X.y.z**
   
   ---
   
